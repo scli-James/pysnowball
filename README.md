@@ -1,4 +1,4 @@
-# pysnowball credit to uname-yang
+# pysnowball
 
 > 雪球APP Python API (需要自取token)
 
